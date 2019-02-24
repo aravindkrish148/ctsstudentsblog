@@ -1,0 +1,14 @@
+How to Run the Blog 
+
+1.Launch local host (xamp) 
+  in xamp start Apache server and mysql 
+
+2.Go to local host / phpmyadmin 
+
+3.create a Databse and import the database files provided 
+
+4.Now you can host the blog
+
+                By   
+                  RMK-CET Students
+
